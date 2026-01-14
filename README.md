@@ -1,6 +1,6 @@
 # PDF OCR Tool
 
-A simple PDF OCR application with a GUI that allows you to extract text from PDF documents using multiple OCR engines.
+Simple PDF OCR app with a GUI that allows you to extract text from PDF documents using multiple OCR engines.
 
 ## Features
 
